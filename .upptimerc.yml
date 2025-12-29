@@ -7,6 +7,10 @@ sites:
     url: https://victoryos.io
   - name: "VictoryOS App Page"
     url: https://app.victoryos.io
+  - name: "VictoryOS Supabase Backend"
+    url: https://ivplmwwzoqkdfdvjimwg.supabase.co/functions/v1/supabase-health
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
