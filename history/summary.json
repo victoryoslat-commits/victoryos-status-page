@@ -40,9 +40,9 @@
     "url": "https://ivplmwwzoqkdfdvjimwg.supabase.co/functions/v1/supabase-health",
     "icon": "https://icons.duckduckgo.com/ip3/ivplmwwzoqkdfdvjimwg.supabase.co.ico",
     "slug": "victory-os-supabase-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 561,
     "timeMonth": 603,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-08": 0
+    }
   },
   {
     "name": "Email Test Alert",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 87,
+      "2026-01-08": 1079,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
