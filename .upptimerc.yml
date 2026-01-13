@@ -12,7 +12,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: "Email Test Alert"
-    url: https://this-site-definitely-does-not-exist-test-12345.com
+    url: https://this-site-definitely-does-not-exist-test-123456.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
