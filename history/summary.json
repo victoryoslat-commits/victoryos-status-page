@@ -40,18 +40,19 @@
     "url": "https://ivplmwwzoqkdfdvjimwg.supabase.co/functions/v1/supabase-health",
     "icon": "https://icons.duckduckgo.com/ip3/ivplmwwzoqkdfdvjimwg.supabase.co.ico",
     "slug": "victory-os-supabase-backend",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.33%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 632,
     "timeDay": 855,
     "timeWeek": 728,
     "timeMonth": 623,
     "timeYear": 632,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2026-01-20": 17,
       "2026-01-08": 278
     }
