@@ -11,11 +11,6 @@ sites:
     url: https://ivplmwwzoqkdfdvjimwg.supabase.co/functions/v1/supabase-health
     expectedStatusCodes:
       - 200
-  - name: "TEST Alerta Email (BORRAR)"
-    url: https://victoryos.io
-    expectedStatusCodes:
-      - 999
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
