@@ -75,5 +75,25 @@
       "2026-04-27": 374,
       "2026-04-30": 205
     }
+  },
+  {
+    "name": "TEST Alerta Email (BORRAR)",
+    "url": "https://victoryos.io",
+    "icon": "https://icons.duckduckgo.com/ip3/victoryos.io.ico",
+    "slug": "test-alerta-email-borrar",
+    "status": "down",
+    "uptime": "65.19%",
+    "uptimeDay": "65.19%",
+    "uptimeWeek": "65.19%",
+    "uptimeMonth": "65.19%",
+    "uptimeYear": "65.19%",
+    "time": 328,
+    "timeDay": 328,
+    "timeWeek": 328,
+    "timeMonth": 328,
+    "timeYear": 328,
+    "dailyMinutesDown": {
+      "2026-05-25": 0
+    }
   }
 ]
