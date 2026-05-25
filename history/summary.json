@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 548,
-    "timeWeek": 628,
-    "timeMonth": 763,
-    "timeYear": 614,
+    "time": 615,
+    "timeDay": 607,
+    "timeWeek": 639,
+    "timeMonth": 762,
+    "timeYear": 615,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 357,
-    "timeWeek": 312,
-    "timeMonth": 387,
-    "timeYear": 302,
+    "time": 305,
+    "timeDay": 475,
+    "timeWeek": 356,
+    "timeMonth": 397,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "98.68%",
     "uptimeYear": "98.09%",
     "time": 751,
-    "timeDay": 677,
-    "timeWeek": 678,
-    "timeMonth": 627,
+    "timeDay": 749,
+    "timeWeek": 702,
+    "timeMonth": 634,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2026-01-08": 278,
@@ -74,26 +74,6 @@
       "2026-04-16": 226,
       "2026-04-27": 374,
       "2026-04-30": 205
-    }
-  },
-  {
-    "name": "TEST Alerta Email (BORRAR)",
-    "url": "https://victoryos.io",
-    "icon": "https://icons.duckduckgo.com/ip3/victoryos.io.ico",
-    "slug": "test-alerta-email-borrar",
-    "status": "down",
-    "uptime": "49.15%",
-    "uptimeDay": "49.15%",
-    "uptimeWeek": "49.15%",
-    "uptimeMonth": "49.15%",
-    "uptimeYear": "49.15%",
-    "time": 325,
-    "timeDay": 325,
-    "timeWeek": 325,
-    "timeMonth": 325,
-    "timeYear": 325,
-    "dailyMinutesDown": {
-      "2026-05-25": 0
     }
   }
 ]
