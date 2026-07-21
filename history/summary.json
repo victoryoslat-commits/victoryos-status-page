@@ -40,17 +40,17 @@
     "url": "https://ivplmwwzoqkdfdvjimwg.supabase.co/functions/v1/supabase-health",
     "icon": "https://icons.duckduckgo.com/ip3/ivplmwwzoqkdfdvjimwg.supabase.co.ico",
     "slug": "victory-os-supabase-backend",
-    "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.63%",
-    "time": 1037,
-    "timeDay": 553,
-    "timeWeek": 708,
-    "timeMonth": 659,
-    "timeYear": 1037,
+    "status": "up",
+    "uptime": "98.60%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "98.60%",
+    "time": 1196,
+    "timeDay": 20091,
+    "timeWeek": 5573,
+    "timeMonth": 1916,
+    "timeYear": 1196,
     "dailyMinutesDown": {
       "2026-01-08": 278,
       "2026-01-20": 17,
@@ -74,7 +74,7 @@
       "2026-04-16": 226,
       "2026-04-27": 374,
       "2026-04-30": 205,
-      "2026-07-21": 0
+      "2026-07-21": 75
     }
   }
 ]
