@@ -40,9 +40,9 @@
     "url": "https://ivplmwwzoqkdfdvjimwg.supabase.co/functions/v1/supabase-health",
     "icon": "https://icons.duckduckgo.com/ip3/ivplmwwzoqkdfdvjimwg.supabase.co.ico",
     "slug": "victory-os-supabase-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "98.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.63%",
@@ -73,7 +73,8 @@
       "2026-04-15": 131,
       "2026-04-16": 226,
       "2026-04-27": 374,
-      "2026-04-30": 205
+      "2026-04-30": 205,
+      "2026-07-21": 0
     }
   }
 ]
